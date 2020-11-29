@@ -19,9 +19,6 @@ defaults:
       layout: "default"
 
 gems:
-  - jekyll-paginate-v2
-
-plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -33,5 +30,4 @@ pagination:
   per_page: 3
   title_suffix: ' - page :num'
   limit: 0
-
 
