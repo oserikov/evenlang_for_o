@@ -22,18 +22,14 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 
-pagination:
-  enabled: true
-  per_page: 3
-  title_suffix: ' - page :num'
-  limit: 0
+paginate: 3
 
